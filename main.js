@@ -86,60 +86,354 @@ function closeModal() {
 
 let productList = [];
 productList.push({
-	name: "Collar - Princesa Flor",
-	price: 30000,
-	image:
-		"https://i.ibb.co/svWvHcL/flor.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-	desc: "Este hermoso collar largo de estilo florido ha sido hecho a mano	 en base a semillas y materiales ecológicos.",
+	name: "1-Bolso",
+	price: 70,
+	image: "https://i.imgur.com/ZRMXOJt.jpg",
+	desc: "Crochet de punto para este hermoso bolso elaborado a mano, de tonos caoba en flores. Realizado en hilo terlenka y chapas de latas.",
 });
 productList.push({
-	name: "Sombrero - Panamera Cute",
+	name: "2-Sandalias",
+	price: 60,
+	image: "https://i.imgur.com/729hdrr.jpg",
+	desc: "Cómodas sandalias de color limón. De gran agarre y gran resistencia.",
+});
+productList.push({
+	name: "3-Bolso",
+	price: 90,
+	image: "https://i.imgur.com/DRtKJ4I.jpg",
+	desc: "Extraordinario kit Bolso + Monedero en gris y colores primarios. Diseño clásico.",
+});
+productList.push({
+	name: "4-Sandalias",
+	price: 45,
+	image: "https://i.imgur.com/8x8pLOL.jpg",
+	desc: "Sandalias LOL! Floridas en tono blanco veraniego. Diseño sobrio. Cómoda y resistente.",
+});
+productList.push({
+	name: "5-Bolso",
+	price: 60,
+	image: "https://i.imgur.com/GcfPXWT.jpg",
+	desc: "Bolso redondeado tejido con hilo Terlenka 100% a mano. Perfecto para toda ocasión. 🧶 🤗",
+});
+productList.push({
+	name: "6-Sandalias",
+	price: 45,
+	image: "https://i.imgur.com/CUDb0wc.jpg",
+	desc: "Sandalias rojo otoñal con flor. Lindas, cómodas y de suela resistente. 💙 😉",
+});
+productList.push({
+	name: "7-Bolso",
+	price: 65,
+	image: "https://i.imgur.com/MbLVqtk.jpg",
+	desc: "Bolso tejido a mano con hilo Terlenka (crochet) y como materia prima uso de chapas de bebidas enlatadas. Personaliza el diseño y el color.👜🧵",
+});
+productList.push({
+	name: "8-Sandalias",
+	price: 45,
+	image: "https://i.imgur.com/UWQ4NuI.jpg",
+	desc: "Sandalias clásicas en negro titánio. hermosas y se adaptan al pie con comodidad",
+});
+productList.push({
+	name: "9-Bolso",
+	price: 85,
+	image: "https://i.imgur.com/U4qlxqf.gif	",
+	desc: "Extraordinario bolso doble faz. Redondo. Motivo espiral. Color doble verde vejiga + Psicodélico. Elije según tu ocasión: Clásico o juvenil; Diurno o nocturno.",
+});
+productList.push({
+	name: "10-Sandalias",
+	price: 60,
+	image: "https://i.imgur.com/XGA9hB9.jpg",
+	desc: "Hermosísimas sandalias de punto blanco-dorado. Suela gruesa para mejor porte y más resistencia.",
+});
+productList.push({
+	name: "11-Bolso",
+	price: 100,
+	image: "https://i.imgur.com/IQRPbOS.jpeg",
+	desc: "Bolso elaborado en cuero y tejido con hilo terlenka... Arte hecho estilo. 👌.",
+});
+productList.push({
+	name: "12-Sandalias",
+	price: 60,
+	image: "https://i.imgur.com/XGilhOA.jpg",
+	desc: "Hermosísimas sandalias de punto negro-dorado. Suela gruesa para mejor porte y más resistencia.",
+});
+productList.push({
+	name: "13-Bolso",
+	price: 40,
+	image: "https://i.imgur.com/vhXZoCz.jpg",
+	desc: "Elaborado 100% a mano en forma de 🌹 . Tejido con hilo terlenka y chapas de bebidas enlatadas ♻️. ✨.",
+});
+productList.push({
+	name: "14-Sandalias",
+	price: 45,
+	image: "https://i.imgur.com/UrAUWk8.jpg",
+	desc: "Sandalias flor otoñal. Diseño triangular tono ópalo. Diseño sobrio. Cómoda y resistente 😉",
+});
+productList.push({
+	name: "15-Bolso",
+	price: 60,
+	image: "https://i.imgur.com/5ApsH5v.jpg",
+	desc: "Bolso tejido a mano con hilo Terlenka (crochet) y como materia prima uso de chapas de bebidas enlatadas. Disponible en gran variedad de colores🧵🧶.",
+});
+productList.push({
+	name: "16-Sandalias",
 	price: 90000,
-	image:
-		"https://i.ibb.co/yQhqKsf/3.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+	image: "https://i.imgur.com/tnf4bqB.jpg",
 	desc: "Un extraordinario sombrero que combina el glamour pueblerino y la sofisticación de la ciudad. Y en una mujer sexy se ve mejor.",
 });
 productList.push({
-	name: "Monedero - Siembra",
+	name: "17-Bolso",
 	price: 10000,
-	image:
-		"https://i.ibb.co/98Xhgb9/3.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+	image: "https://i.imgur.com/w3hXImr.jpg",
 	desc: "Un monedero reforzado con un modelo bordado y el tamaño perfecto para tus monedas.",
 });
 productList.push({
-	name: "Peluche - Octopulpo",
+	name: "18-Sandalias",
 	price: 25000,
-	image:
-		"https://i.ibb.co/ZGWPvGR/5.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+	image: "https://i.imgur.com/Y1lMxVN.jpg",
 	desc: "Precio por unidad. Diversos colores y una textura de pulpo muy esponjosa.",
 });
 productList.push({
-	name: "Etiquetas decorativas - Hello Kity y personajes similares (Bajo encargo especial.",
+	name: "19-Bolso",
 	price: 25000,
-	image:
-		"https://i.ibb.co/KbHwcqG/6.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+	image: "https://i.imgur.com/NsIpDmk.jpg",
 	desc: "Si quieres gritarle al mundo que eres una loca fanática de Hello Kitty, ahora puedes llevar tu manía a todas partes en tu coche o en tu mochila.",
 });
 productList.push({
-	name: "Letrero Informativo - Prohibido Cagar (para perros)",
+	name: "20-Sandalias)",
 	price: 30000,
-	image:
-		"https://i.ibb.co/XS2h6Kb/7.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+	image: "https://i.imgur.com/QAMimnz.jpg",
 	desc: "Harto que los perros defequen en la entrada de tu casa y pisas la mierda al salir? Ahora puedes avisar a los perros que está prohibido defecar en tu entrada o se atendran a las consecuencias legales o a la venganza personal.",
 });
 productList.push({
-	name: "Escultura - Chiva cantinera",
+	name: "21-Bolso",
+	price: 1500,
+	image: "https://i.imgur.com/Q6XZ2Jr.jpg",
+	desc: "Para los que extrañan las vervenas, el guaro, el relajo, las montoneras y un lugar donde los mafiosos se sientan como en casa... Además esas chivas a Juanchito con asalto incluído 😉",
+});
+productList.push({
+	name: "22-Sandalias",
+	price: 30000,
+	image: "https://i.imgur.com/Saekg7X.jpg",
+	desc: "Este hermoso collar largo de estilo florido ha sido hecho a mano	 en base a semillas y materiales ecológicos.",
+});
+productList.push({
+	name: "23-Bolso",
+	price: 90000,
+	image: "https://i.imgur.com/KCLRn4K.jpg",
+	desc: "Un extraordinario sombrero que combina el glamour pueblerino y la sofisticación de la ciudad. Y en una mujer sexy se ve mejor.",
+});
+productList.push({
+	name: "24-Sandalias",
+	price: 10000,
+	image: "https://i.imgur.com/UCftyxz.jpg",
+	desc: "Un monedero reforzado con un modelo bordado y el tamaño perfecto para tus monedas.",
+});
+productList.push({
+	name: "25-Bolso",
+	price: 25000,
+	image: "https://i.imgur.com/RVDDxyu.jpg",
+	desc: "Precio por unidad. Diversos colores y una textura de pulpo muy esponjosa.",
+});
+productList.push({
+	name: "26-Sandalias.",
+	price: 25000,
+	image: "https://i.imgur.com/RVDDxyu.jpg",
+	desc: "Si quieres gritarle al mundo que eres una loca fanática de Hello Kitty, ahora puedes llevar tu manía a todas partes en tu coche o en tu mochila.",
+});
+productList.push({
+	name: "27-Bolso",
+	price: 30000,
+	image: "https://i.imgur.com/rp7jFu2.jpg",
+	desc: "Harto que los perros defequen en la entrada de tu casa y pisas la mierda al salir? Ahora puedes avisar a los perros que está prohibido defecar en tu entrada o se atendran a las consecuencias legales o a la venganza personal.",
+});
+productList.push({
+	name: "28-Sandalias",
 	price: 1500,
 	image:
 		"https://i.ibb.co/D4f6VvV/5.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
 	desc: "Para los que extrañan las vervenas, el guaro, el relajo, las montoneras y un lugar donde los mafiosos se sientan como en casa... Además esas chivas a Juanchito con asalto incluído 😉",
 });
 productList.push({
-	name: "Juguete didáctico - Simulador de necropsias para niños hasta 9 años.",
-	price: 895,
+	name: "29-Bolso",
+	price: 30000,
+	image: "https://i.imgur.com/lx6wYfu.jpg",
+	desc: "Este hermoso collar largo de estilo florido ha sido hecho a mano	 en base a semillas y materiales ecológicos.",
+});
+productList.push({
+	name: "30-Sandalias",
+	price: 90000,
 	image:
-		"https://i.ibb.co/wSPmvTj/8.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-	desc: "Si tu hijo o hija demuestran aptitudes para las ciencias forenses, puedes animarlos desde pequeñós a conocer las asquerosas entrañas de los seres vivientes (sin la sangre ni vampiros involucrados).",
+		"https://i.ibb.co/yQhqKsf/3.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+	desc: "Un extraordinario sombrero que combina el glamour pueblerino y la sofisticación de la ciudad. Y en una mujer sexy se ve mejor.",
+});
+productList.push({
+	name: "31-Bolso",
+	price: 10000,
+	image: "https://i.imgur.com/OAfyNuJ.jpg",
+	desc: "Un monedero reforzado con un modelo bordado y el tamaño perfecto para tus monedas.",
+});
+productList.push({
+	name: "32-Sandalias",
+	price: 25000,
+	image:
+		"https://i.ibb.co/ZGWPvGR/5.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+	desc: "Precio por unidad. Diversos colores y una textura de pulpo muy esponjosa.",
+});
+productList.push({
+	name: "33-Bolso",
+	price: 25000,
+	image: "https://i.imgur.com/x5qSVxO.jpg",
+	desc: "Si quieres gritarle al mundo que eres una loca fanática de Hello Kitty, ahora puedes llevar tu manía a todas partes en tu coche o en tu mochila.",
+});
+productList.push({
+	name: "34-Sandalias",
+	price: 30000,
+	image:
+		"https://i.ibb.co/XS2h6Kb/7.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+	desc: "Harto que los perros defequen en la entrada de tu casa y pisas la mierda al salir? Ahora puedes avisar a los perros que está prohibido defecar en tu entrada o se atendran a las consecuencias legales o a la venganza personal.",
+});
+productList.push({
+	name: "35-Bolso",
+	price: 1500,
+	image: "https://i.imgur.com/0WdjjiN.jpg",
+	desc: "Para los que extrañan las vervenas, el guaro, el relajo, las montoneras y un lugar donde los mafiosos se sientan como en casa... Además esas chivas a Juanchito con asalto incluído 😉",
+});
+productList.push({
+	name: "36-Sandalias",
+	price: 30000,
+	image:
+		"https://i.ibb.co/svWvHcL/flor.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+	desc: "Este hermoso collar largo de estilo florido ha sido hecho a mano	 en base a semillas y materiales ecológicos.",
+});
+productList.push({
+	name: "37-Bolso",
+	price: 90000,
+	image: "https://i.imgur.com/a5uAXwb.jpg",
+	desc: "Un extraordinario sombrero que combina el glamour pueblerino y la sofisticación de la ciudad. Y en una mujer sexy se ve mejor.",
+});
+productList.push({
+	name: "38-Sandalias",
+	price: 10000,
+	image:
+		"https://i.ibb.co/98Xhgb9/3.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+	desc: "Un monedero reforzado con un modelo bordado y el tamaño perfecto para tus monedas.",
+});
+productList.push({
+	name: "39-Bolso",
+	price: 25000,
+	image: "https://i.imgur.com/ri4FW1Q.jpg",
+	desc: "Precio por unidad. Diversos colores y una textura de pulpo muy esponjosa.",
+});
+productList.push({
+	name: "40-Sandalias",
+	price: 25000,
+	image:
+		"https://i.ibb.co/KbHwcqG/6.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+	desc: "Si quieres gritarle al mundo que eres una loca fanática de Hello Kitty, ahora puedes llevar tu manía a todas partes en tu coche o en tu mochila.",
+});
+productList.push({
+	name: "41-Bolso",
+	price: 30000,
+	image: "https://i.imgur.com/bQoj5zm.jpg",
+	desc: "Harto que los perros defequen en la entrada de tu casa y pisas la mierda al salir? Ahora puedes avisar a los perros que está prohibido defecar en tu entrada o se atendran a las consecuencias legales o a la venganza personal.",
+});
+productList.push({
+	name: "42-Sandalias",
+	price: 1500,
+	image:
+		"https://i.ibb.co/D4f6VvV/5.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+	desc: "Para los que extrañan las vervenas, el guaro, el relajo, las montoneras y un lugar donde los mafiosos se sientan como en casa... Además esas chivas a Juanchito con asalto incluído 😉",
+});
+productList.push({
+	name: "43-Bolso",
+	price: 1500,
+	image: "https://i.imgur.com/taPyMwO.jpg",
+	desc: "Para los que extrañan las vervenas, el guaro, el relajo, las montoneras y un lugar donde los mafiosos se sientan como en casa... Además esas chivas a Juanchito con asalto incluído 😉",
+});
+productList.push({
+	name: "44-Sandalias",
+	price: 1500,
+	image: "https://i.imgur.com/4fWNIzQ.jpg",
+	desc: "Para los que extrañan las vervenas, el guaro, el relajo, las montoneras y un lugar donde los mafiosos se sientan como en casa... Además esas chivas a Juanchito con asalto incluído 😉",
+});
+productList.push({
+	name: "45-Bolso",
+	price: 1500,
+	image: "https://i.imgur.com/tQfb2IV.jpg",
+	desc: "Para los que extrañan las vervenas, el guaro, el relajo, las montoneras y un lugar donde los mafiosos se sientan como en casa... Además esas chivas a Juanchito con asalto incluído 😉",
+});
+productList.push({
+	name: "46-Sandalias",
+	price: 1500,
+	image:
+		"https://i.ibb.co/D4f6VvV/5.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+	desc: "Para los que extrañan las vervenas, el guaro, el relajo, las montoneras y un lugar donde los mafiosos se sientan como en casa... Además esas chivas a Juanchito con asalto incluído 😉",
+});
+productList.push({
+	name: "47-Bolso",
+	price: 1500,
+	image: "https://i.imgur.com/GaJ0r3J.jpg",
+	desc: "Para los que extrañan las vervenas, el guaro, el relajo, las montoneras y un lugar donde los mafiosos se sientan como en casa... Además esas chivas a Juanchito con asalto incluído 😉",
+});
+productList.push({
+	name: "48-Sandalias",
+	price: 1500,
+	image:
+		"https://i.ibb.co/D4f6VvV/5.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+	desc: "Para los que extrañan las vervenas, el guaro, el relajo, las montoneras y un lugar donde los mafiosos se sientan como en casa... Además esas chivas a Juanchito con asalto incluído 😉",
+});
+productList.push({
+	name: "49-Bolso",
+	price: 1500,
+	image: "https://i.imgur.com/pdFUBr6.jpg",
+	desc: "Para los que extrañan las vervenas, el guaro, el relajo, las montoneras y un lugar donde los mafiosos se sientan como en casa... Además esas chivas a Juanchito con asalto incluído 😉",
+});
+productList.push({
+	name: "50-Sandalias",
+	price: 1500,
+	image:
+		"https://i.ibb.co/D4f6VvV/5.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+	desc: "Para los que extrañan las vervenas, el guaro, el relajo, las montoneras y un lugar donde los mafiosos se sientan como en casa... Además esas chivas a Juanchito con asalto incluído 😉",
+});
+productList.push({
+	name: "51-Bolso",
+	price: 1500,
+	image: "https://i.imgur.com/w0n8Sz0.jpg",
+	desc: "Bolso tejido a mano con hilo Terlenka (crochet) y como materia prima uso de chapas de bebidas enlatadas. Nuestro compromiso también es ecológico.",
+});
+productList.push({
+	name: "52-Sandalias",
+	price: 1500,
+	image:
+		"https://i.ibb.co/D4f6VvV/5.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+	desc: "Para los que extrañan las vervenas, el guaro, el relajo, las montoneras y un lugar donde los mafiosos se sientan como en casa... Además esas chivas a Juanchito con asalto incluído 😉",
+});
+productList.push({
+	name: "53-Bolso",
+	price: 1500,
+	image: "https://i.imgur.com/QMBlIRZ.jpg",
+	desc: "Bolso tejido a mano con hilo Terlenka y como materia prima uso de chapas de bebidas enlatadas.. Nuestro compromiso también es ecológico. ♻️",
+});
+productList.push({
+	name: "54-Sandalias",
+	price: 1500,
+	image:
+		"https://i.ibb.co/D4f6VvV/5.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+	desc: "Para los que extrañan las vervenas, el guaro, el relajo, las montoneras y un lugar donde los mafiosos se sientan como en casa... Además esas chivas a Juanchito con asalto incluído 😉",
+});
+productList.push({
+	name: "55-Bolso",
+	price: 1500,
+	image: "https://i.imgur.com/LQz4Jw2.jpg",
+	desc: "Bolso estilo gatita tejido a mano con hilo Terlenka (crochet) y como materia prima uso de chapas de bebidas enlatadas. Disponible en gran variedad de colores.🧵🧶😸 🌈",
+});
+productList.push({
+	name: "56-Sandalias",
+	price: 1500,
+	image:
+		"https://i.ibb.co/D4f6VvV/5.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+	desc: "Para los que extrañan las vervenas, el guaro, el relajo, las montoneras y un lugar donde los mafiosos se sientan como en casa... Además esas chivas a Juanchito con asalto incluído 😉",
 });
 
 function renderListProduct(productList) {
@@ -256,4 +550,3 @@ function mostrarInfoProduct(imagen, precio, nombre, descripcion) {
 }
 
 renderListProduct(productList);
-
