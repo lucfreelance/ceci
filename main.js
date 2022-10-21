@@ -238,7 +238,7 @@ productList.push({
 productList.push({
 	name: "26-Sandalias.",
 	price: 25000,
-	image: "https://i.imgur.com/RVDDxyu.jpg",
+	image: "https://i.imgur.com/5ihFhek.jpg",
 	desc: "Si quieres gritarle al mundo que eres una loca fanática de Hello Kitty, ahora puedes llevar tu manía a todas partes en tu coche o en tu mochila.",
 });
 productList.push({
