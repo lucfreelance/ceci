@@ -86,344 +86,184 @@ function closeModal() {
 
 let productList = [];
 productList.push({
-	name: "45-Bolso",
+	name: "Bolso 1",
 	price: 0,
 	image: "https://i.imgur.com/tQfb2IV.jpg",
 	desc: "😉",
 });
 productList.push({
-	name: "2-Sandalias",
+	name: "Bolso 2",
 	price: 60,
-	image: "https://i.imgur.com/aVID501.gif",
+	image: "https://i.imgur.com/LPdO5fN.jpg",
 	desc: "Cómodas sandalias de color limón. De gran agarre y gran resistencia.",
 });
 productList.push({
-	name: "3-Bolso",
+	name: "Bolso 3",
 	price: 90,
 	image: "https://i.imgur.com/DRtKJ4I.jpg",
 	desc: "Extraordinario kit Bolso + Monedero en gris y colores primarios. Diseño clásico.",
 });
 productList.push({
-	name: "4-Sandalias",
+	name: "Bolso 4",
 	price: 45,
-	image:
-		"https://cdn.pixabay.com/photo/2016/03/31/20/19/actress-1295682_960_720.png",
+	image: "https://i.imgur.com/GwZK50J.jpg",
 	desc: "",
 });
 productList.push({
-	name: "5-Bolso",
+	name: "Bolso 5",
 	price: 60,
-	image: "https://i.imgur.com/GcfPXWT.jpg",
-	desc: "Bolso redondeado tejido con hilo Terlenka 100% a mano. Perfecto para toda ocasión. 🧶 🤗",
+	image: "https://i.imgur.com/0WdjjiN.jpg",
+	desc: "🧶 🤗",
 });
 productList.push({
-	name: "6-Sandalias",
+	name: "Bolso 6",
 	price: 45,
-	image: "https://i.imgur.com/CUDb0wc.jpg",
-	desc: "Sandalias rojo otoñal con flor. Lindas, cómodas y de suela resistente. 💙 😉",
+	image: "https://i.imgur.com/akpxc0L.jpg",
+	desc: "💙",
 });
 productList.push({
-	name: "7-Bolso",
+	name: "Bolso 7",
 	price: 65,
 	image: "https://i.imgur.com/MbLVqtk.jpg",
-	desc: "Bolso tejido a mano con hilo Terlenka (crochet) y como materia prima uso de chapas de bebidas enlatadas. Personaliza el diseño y el color.👜🧵",
+	desc: "👜🧵",
 });
 productList.push({
-	name: "8-Sandalias",
+	name: "Bolso 8",
 	price: 45,
-	image: "https://i.imgur.com/UWQ4NuI.jpg",
-	desc: "Sandalias clásicas en negro titánio. hermosas y se adaptan al pie con comodidad",
+	image: "https://i.imgur.com/2fKtq49.jpg",
+	desc: "",
 });
 productList.push({
-	name: "9-Bolso",
+	name: "Bolso 9",
 	price: 85,
 	image: "https://i.imgur.com/U4qlxqf.gif	",
 	desc: "Extraordinario bolso doble faz. Redondo. Motivo espiral. Color doble verde vejiga + Psicodélico. Elije según tu ocasión: Clásico o juvenil; Diurno o nocturno.",
 });
 productList.push({
-	name: "10-Sandalias",
+	name: "Bolso 10",
 	price: 60,
-	image: "https://i.imgur.com/4fWNIzQ.jpg",
-	desc: "Hermosísimas sandalias de punto blanco-dorado. Suela gruesa para mejor porte y más resistencia.",
-});
-productList.push({
-	name: "11-Bolso",
-	price: 100,
-	image: "https://i.imgur.com/IQRPbOS.jpeg",
-	desc: "Bolso elaborado en cuero y tejido con hilo terlenka... Arte hecho estilo. 👌.",
-});
-productList.push({
-	name: "12-Sandalias",
-	price: 0,
-	image:
-		"https://w7.pngwing.com/pngs/864/583/png-transparent-africa-graphy-black-and-white-black-face-face-black-hair-people-thumbnail.png",
+	image: "https://i.imgur.com/x5qSVxO.jpg",
 	desc: "",
 });
 productList.push({
-	name: "13-Bolso",
+	name: "Bolso 11",
+	price: 100,
+	image: "https://i.imgur.com/IQRPbOS.jpeg",
+	desc: "",
+});
+productList.push({
+	name: "Bolso 12",
+	price: 0,
+	image: "https://i.imgur.com/pdFUBr6.jpg",
+	desc: "",
+});
+productList.push({
+	name: "Bolso 13",
 	price: 40,
 	image: "https://i.imgur.com/rp7jFu2.jpg	",
-	desc: "Harto que los perros defequen en la entrada de tu casa y pisas la mierda al salir? Ahora puedes avisar a los perros que está prohibido defecar en tu entrada o se atendran a las consecuencias legales o a la venganza personal.",
+	desc: "",
 });
 productList.push({
-	name: "14-Sandalias",
+	name: "Bolso 14",
 	price: 45,
-	image: "https://i.imgur.com/UrAUWk8.jpg",
-	desc: "Sandalias flor otoñal. Diseño triangular tono ópalo. Diseño sobrio. Cómoda y resistente 😉",
+	image: "https://i.imgur.com/ZRMXOJt.jpg",
+	desc: "😉",
 });
 productList.push({
-	name: "15-Bolso",
+	name: "Bolso 15",
 	price: 60,
-	image: "https://i.imgur.com/5ApsH5v.jpg",
+	image: "https://i.imgur.com/0XMa4gg.jpg",
 	desc: "Bolso tejido a mano con hilo Terlenka (crochet) y como materia prima uso de chapas de bebidas enlatadas. Disponible en gran variedad de colores.🧵🧶",
 });
 productList.push({
-	name: "16-Sandalias",
-	price: 0,
-	image: "https://i.imgur.com/tnf4bqB.jpg",
-	desc: "Un extraordinario sombrero que combina el glamour pueblerino y la sofisticación de la ciudad. Y en una mujer sexy se ve mejor.",
-});
-productList.push({
-	name: "17-Bolso",
-	price: 0,
-	image: "https://i.imgur.com/w3hXImr.jpg",
-	desc: "Un monedero reforzado con un modelo bordado y el tamaño perfecto para tus monedas.",
-});
-productList.push({
-	name: "18-Sandalias",
-	price: 0,
-	image:
-		"https://w7.pngwing.com/pngs/201/375/png-transparent-beauty-brunette-girl-woman-face-head-thumbnail.png",
-	desc: "Precio por unidad. Diversos colores y una textura de pulpo muy esponjosa.",
-});
-productList.push({
-	name: "19-Bolso",
-	price: 0,
-	image: "https://i.imgur.com/NsIpDmk.jpg",
-	desc: "Si quieres gritarle al mundo que eres una loca fanática de Hello Kitty, ahora puedes llevar tu manía a todas partes en tu coche o en tu mochila.",
-});
-productList.push({
-	name: "20-Sandalias)",
-	price: 0,
-	image:
-		"https://cdn.pixabay.com/photo/2016/04/01/09/16/actress-1299250_960_720.png",
-	desc: ".",
-});
-productList.push({
-	name: "21-Bolso",
-	price: 0,
-	image: "https://i.imgur.com/Q6XZ2Jr.jpg",
-	desc: "Para los que extrañan las vervenas, el guaro, el relajo, las montoneras y un lugar donde los mafiosos se sientan como en casa... Además esas chivas a Juanchito con asalto incluído 😉",
-});
-productList.push({
-	name: "22-Sandalias",
-	price: 0,
-	image: "https://i.imgur.com/Saekg7X.jpg",
-	desc: "Este hermoso collar largo de estilo florido ha sido hecho a mano	 en base a semillas y materiales ecológicos.",
-});
-productList.push({
-	name: "23-Bolso",
-	price: 0,
-	image: "https://i.imgur.com/KCLRn4K.jpg",
-	desc: "Un extraordinario sombrero que combina el glamour pueblerino y la sofisticación de la ciudad. Y en una mujer sexy se ve mejor.",
-});
-productList.push({
-	name: "24-Sandalias",
-	price: 0,
-	image: "https://i.imgur.com/UCftyxz.jpg",
-	desc: "Un monedero reforzado con un modelo bordado y el tamaño perfecto para tus monedas.",
-});
-productList.push({
-	name: "25-Bolso",
-	price: 0,
-	image: "https://i.imgur.com/RVDDxyu.jpg",
-	desc: "Precio por unidad. Diversos colores y una textura de pulpo muy esponjosa.",
-});
-productList.push({
-	name: "26-Sandalias.",
-	price: 0,
-	image:
-		"https://cdn.pixabay.com/photo/2013/07/13/10/24/woman-157149_960_720.png",
-	desc: "Si quieres gritarle al mundo que eres una loca fanática de Hello Kitty, ahora puedes llevar tu manía a todas partes en tu coche o en tu mochila.",
-});
-productList.push({
-	name: "27-Bolso",
+	name: "Bolso 16",
 	price: 0,
 	image: "https://i.imgur.com/vhXZoCz.jpg",
-	desc: "Elaborado 100% a mano en forma de 🌹 . Tejido con hilo terlenka y chapas de bebidas enlatadas ♻️. ✨",
+	desc: "",
 });
 productList.push({
-	name: "28-Sandalias",
+	name: "Bolso 17",
 	price: 0,
-	image:
-		"https://cdn.pixabay.com/photo/2016/03/31/23/40/drawing-1297764_960_720.png",
-	desc: "😉",
+	image: "https://i.imgur.com/w3hXImr.jpg",
+	desc: "",
 });
 productList.push({
-	name: "29-Bolso",
-	price: 0,
-	image: "https://i.imgur.com/lx6wYfu.jpg",
-	desc: "Este hermoso collar largo de estilo florido ha sido hecho a mano	 en base a semillas y materiales ecológicos.",
-});
-productList.push({
-	name: "30-Sandalias",
-	price: 0,
-	image:
-		"https://cdn.pixabay.com/photo/2013/07/13/10/31/beauty-157427_960_720.png",
-	desc: "😉.",
-});
-productList.push({
-	name: "31-Bolso",
-	price: 0,
-	image: "https://i.imgur.com/OAfyNuJ.jpg",
-	desc: "Un monedero reforzado con un modelo bordado y el tamaño perfecto para tus monedas.",
-});
-productList.push({
-	name: "32-Sandalias",
-	price: 0,
-	image:
-		"https://w7.pngwing.com/pngs/202/123/png-transparent-japan-japanese-asian-beauty-brunette-exotic-face-girl-head-woman-thumbnail.png",
-	desc: "Precio por unidad. Diversos colores y una textura de pulpo muy esponjosa.",
-});
-productList.push({
-	name: "33-Bolso",
-	price: 0,
-	image: "https://i.imgur.com/x5qSVxO.jpg",
-	desc: "Si quieres gritarle al mundo que eres una loca fanática de Hello Kitty, ahora puedes llevar tu manía a todas partes en tu coche o en tu mochila.",
-});
-productList.push({
-	name: "34-Sandalias",
-	price: 45,
-	image: "https://i.imgur.com/8x8pLOL.jpg",
-	desc: "Sandalias LOL! Floridas en tono blanco veraniego. Diseño sobrio. Cómoda y resistente.",
-});
-productList.push({
-	name: "35-Bolso",
-	price: 0,
-	image: "https://i.imgur.com/0WdjjiN.jpg",
-	desc: "Para los que extrañan las vervenas, el guaro, el relajo, las montoneras y un lugar donde los mafiosos se sientan como en casa... Además esas chivas a Juanchito con asalto incluído 😉",
-});
-productList.push({
-	name: "36-Sandalias",
-	price: 0,
-	image: "https://publicdomainvectors.org/photos/BeautyNo03-Archness.png",
-	desc: "Este hermoso collar largo de estilo florido ha sido hecho a mano	 en base a semillas y materiales ecológicos.",
-});
-productList.push({
-	name: "37-Bolso",
-	price: 0,
-	image: "https://i.imgur.com/a5uAXwb.jpg",
-	desc: "Un extraordinario sombrero que combina el glamour pueblerino y la sofisticación de la ciudad. Y en una mujer sexy se ve mejor.",
-});
-productList.push({
-	name: "38-Sandalias",
-	price: 45,
-	image:
-		"https://i.imgur.com/UWQ4NuI.jpghttps://i.ibb.co/98Xhgb9/3.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-	desc: "Sandalias clásicas en negro titanio. hermosas y se adaptan al pie con comodidad",
-});
-productList.push({
-	name: "39-Bolso",
-	price: 0,
-	image: "https://i.imgur.com/ri4FW1Q.jpg",
-	desc: "Precio por unidad. Diversos colores y una textura de pulpo muy esponjosa.😸",
-});
-productList.push({
-	name: "40-Sandalias",
-	price: 0,
-	image: "https://png.vector.me/files/images/2/5/256006/beauty_no11_rapture",
-	desc: "😉",
-});
-productList.push({
-	name: "41-Bolso",
-	price: 0,
-	image: "https://i.imgur.com/bQoj5zm.jpg",
-	desc: "😉",
-});
-productList.push({
-	name: "42-Sandalias",
-	price: 45,
-	image: "https://i.imgur.com/5ihFhek.jpg",
-	desc: "Sandalias clásicas en negro titánio. hermosas y se adaptan al pie con comodidad.🧵🌈",
-});
-productList.push({
-	name: "43-Bolso",
-	price: 0,
-	image: "https://i.imgur.com/taPyMwO.jpg",
-	desc: "😉",
-});
-productList.push({
-	name: "44-Sandalias",
-	price: 0,
-	image: "https://freesvg.org/img/African-Woman-Portrait.png",
-	desc: "😉",
-});
-productList.push({
-	name: "1-Bolso",
-	price: 70,
-	image: "https://i.imgur.com/ZRMXOJt.jpg",
-	desc: "Crochet de punto para este hermoso bolso elaborado a mano, de tonos caoba en flores. Realizado en hilo terlenka y chapas de latas.",
-});
-productList.push({
-	name: "46-Sandalias",
-	price: 0,
-	image:
-		"https://w7.pngwing.com/pngs/976/449/png-transparent-beauty-brunette-face-girl-head-woman-thumbnail.png",
-	desc: "😉",
-});
-productList.push({
-	name: "47-Bolso",
-	price: 60,
-	image: "https://i.imgur.com/GaJ0r3J.jpg",
-	desc: "😉",
-});
-productList.push({
-	name: "48-Sandalias",
-	price: 0,
-	image: "http://www.clker.com/cliparts/v/E/F/x/n/t/woman-looking-down-md.png",
-	desc: "😉",
-});
-productList.push({
-	name: "49-Bolso",
-	price: 0,
-	image: "https://i.imgur.com/pdFUBr6.jpg",
-	desc: "😉",
-});
-productList.push({
-	name: "50-Sandalias",
-	price: 50,
-	image: "https://i.imgur.com/QAMimnz.jpg",
-	desc: "😉",
-});
-productList.push({
-	name: "51-Bolso",
-	price: 0,
-	image: "https://i.imgur.com/w0n8Sz0.jpg",
-	desc: "😉",
-});
-productList.push({
-	name: "52-Sandalias",
-	price: 0,
-	image: "https://i.imgur.com/jGirhp8.png",
-	desc: "😉",
-});
-productList.push({
-	name: "53-Bolso",
+	name: "Bolso 18",
 	price: 0,
 	image: "https://i.imgur.com/LQz4Jw2.jpg",
 	desc: "Bolso estilo gatita tejido a mano con hilo Terlenka (crochet) y como materia prima uso de chapas de bebidas enlatadas. Disponible en gran variedad de colores.🧶♻️",
 });
 productList.push({
-	name: "54-Sandalias",
+	name: "Bolso 19",
 	price: 0,
-	image: "https://i.imgur.com/a4hYABK.png",
+	image: "https://i.imgur.com/GaJ0r3J.jpg",
+	desc: ".",
+});
+productList.push({
+	name: "Bolso 20",
+	price: 0,
+	image: "https://i.imgur.com/q7dz0qv.gif",
+	desc: ".",
+});
+productList.push({
+	name: "Bolso 21",
+	price: 0,
+	image: "https://i.imgur.com/w0n8Sz0.jpg",
 	desc: "😉",
 });
 productList.push({
-	name: "55-Bolso",
+	name: "Bolso 22",
 	price: 0,
-	image: "https://i.imgur.com/2z1epVn.png",
+	image: "https://i.imgur.com/ri4FW1Q.jpg",
+	desc: "Este hermoso collar largo de estilo florido ha sido hecho a mano	 en base a semillas y materiales ecológicos.",
+});
+productList.push({
+	name: "Bolso 23",
+	price: 0,
+	image: "https://i.imgur.com/GcfPXWT.jpg",
+	desc: "",
+});
+productList.push({
+	name: "Bolso 24",
+	price: 0,
+	image: "https://i.imgur.com/KCLRn4K.jpg",
+	desc: ".",
+});
+productList.push({
+	name: "Bolso 25",
+	price: 0,
+	image: "https://i.imgur.com/7v03NvC.jpg",
+	desc: ".",
+});
+productList.push({
+	name: "Bolso 26",
+	price: 0,
+	image: "https://i.imgur.com/CboMoXs.jpg",
+	desc: ".",
+});
+productList.push({
+	name: "Bolso 27",
+	price: 0,
+	image: "https://i.imgur.com/a5uAXwb.jpg",
+	desc: "♻️✨",
+});
+productList.push({
+	name: "Bolso 28",
+	price: 0,
+	image: "https://i.imgur.com/Q6XZ2Jr.jpg",
 	desc: "😉",
+});
+productList.push({
+	name: "Bolso 29",
+	price: 0,
+	image: "https://i.imgur.com/lx6wYfu.jpg",
+	desc: "",
+});
+productList.push({
+	name: "Bolso 30",
+	price: 0,
+	image: "https://i.imgur.com/NsIpDmk.jpg",
+	desc: "😉.",
 });
 
 function renderListProduct(productList) {
