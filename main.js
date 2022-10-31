@@ -89,181 +89,181 @@ productList.push({
 	name: "Bolso 1",
 	price: 0,
 	image: "https://i.imgur.com/tQfb2IV.jpg",
-	desc: "😉",
+	desc: "Hermoso bolso hecho a mano tejido en terlenka, en base a semillas, materiales ecológicos y 'chapitas' de bebidas enlatadas.",
 });
 productList.push({
 	name: "Bolso 2",
 	price: 60,
 	image: "https://i.imgur.com/LPdO5fN.jpg",
-	desc: "Cómodas sandalias de color limón. De gran agarre y gran resistencia.",
+	desc: "Hermoso bolso hecho a mano tejido en terlenka, en base a semillas, materiales ecológicos y 'chapitas' de bebidas enlatadas.",
 });
 productList.push({
 	name: "Bolso 3",
 	price: 90,
 	image: "https://i.imgur.com/DRtKJ4I.jpg",
-	desc: "Extraordinario kit Bolso + Monedero en gris y colores primarios. Diseño clásico.",
+	desc: "Hermoso bolso + monedero hecho a mano tejido en terlenka, en base a semillas, materiales ecológicos y 'chapitas' de bebidas enlatadas.",
 });
 productList.push({
 	name: "Bolso 4",
 	price: 45,
 	image: "https://i.imgur.com/GwZK50J.jpg",
-	desc: "",
+	desc: "Hermoso bolso hecho a mano tejido en terlenka, en base a semillas, materiales ecológicos y 'chapitas' de bebidas enlatadas.",
 });
 productList.push({
 	name: "Bolso 5",
 	price: 60,
 	image: "https://i.imgur.com/0WdjjiN.jpg",
-	desc: "🧶 🤗",
+	desc: "Hermoso bolso hecho a mano tejido en terlenka, en base a semillas, materiales ecológicos y 'chapitas' de bebidas enlatadas.",
 });
 productList.push({
 	name: "Bolso 6",
 	price: 45,
 	image: "https://i.imgur.com/akpxc0L.jpg",
-	desc: "💙",
+	desc: "Hermoso bolso hecho a mano tejido en terlenka, en base a semillas, materiales ecológicos y 'chapitas' de bebidas enlatadas.",
 });
 productList.push({
 	name: "Bolso 7",
 	price: 65,
 	image: "https://i.imgur.com/MbLVqtk.jpg",
-	desc: "👜🧵",
+	desc: "Hermoso bolso hecho a mano tejido en terlenka, en base a semillas, materiales ecológicos y 'chapitas' de bebidas enlatadas.",
 });
 productList.push({
 	name: "Bolso 8",
 	price: 45,
 	image: "https://i.imgur.com/2fKtq49.jpg",
-	desc: "",
+	desc: "Hermoso bolso hecho a mano tejido en terlenka, en base a semillas, materiales ecológicos y 'chapitas' de bebidas enlatadas.",
 });
 productList.push({
 	name: "Bolso 9",
 	price: 85,
 	image: "https://i.imgur.com/U4qlxqf.gif	",
-	desc: "Extraordinario bolso doble faz. Redondo. Motivo espiral. Color doble verde vejiga + Psicodélico. Elije según tu ocasión: Clásico o juvenil; Diurno o nocturno.",
+	desc: "Extraordinario bolso doble faz. Redondo. Motivo espiral. Color verde vejiga + Psicodélico. Elije según tu ocasión: Clásico o juvenil; Diurno o nocturno.",
 });
 productList.push({
 	name: "Bolso 10",
 	price: 60,
 	image: "https://i.imgur.com/x5qSVxO.jpg",
-	desc: "",
+	desc: "Hermoso bolso hecho a mano tejido en terlenka, en base a semillas, materiales ecológicos y 'chapitas' de bebidas enlatadas.",
 });
 productList.push({
 	name: "Bolso 11",
 	price: 100,
 	image: "https://i.imgur.com/IQRPbOS.jpeg",
-	desc: "",
+	desc: "Hermoso bolso hecho a mano tejido en cuero y terlenka. Estilo clásico.",
 });
 productList.push({
 	name: "Bolso 12",
 	price: 0,
 	image: "https://i.imgur.com/pdFUBr6.jpg",
-	desc: "",
+	desc: "Hermoso bolso hecho a mano tejido en terlenka, en base a semillas, materiales ecológicos y 'chapitas' de bebidas enlatadas.",
 });
 productList.push({
 	name: "Bolso 13",
 	price: 40,
 	image: "https://i.imgur.com/rp7jFu2.jpg	",
-	desc: "",
+	desc: "Hermoso bolso hecho a mano tejido en terlenka, en base a semillas, materiales ecológicos y 'chapitas' de bebidas enlatadas.",
 });
 productList.push({
 	name: "Bolso 14",
 	price: 45,
 	image: "https://i.imgur.com/ZRMXOJt.jpg",
-	desc: "😉",
+	desc: "Hermoso bolso hecho a mano tejido en terlenka, en base a semillas, materiales ecológicos y 'chapitas' de bebidas enlatadas.",
 });
 productList.push({
 	name: "Bolso 15",
 	price: 60,
 	image: "https://i.imgur.com/0XMa4gg.jpg",
-	desc: "Bolso tejido a mano con hilo Terlenka (crochet) y como materia prima uso de chapas de bebidas enlatadas. Disponible en gran variedad de colores.🧵🧶",
+	desc: "Hermoso bolso hecho a mano tejido en terlenka, en base a semillas, materiales ecológicos y 'chapitas' de bebidas enlatadas.",
 });
 productList.push({
 	name: "Bolso 16",
 	price: 0,
 	image: "https://i.imgur.com/vhXZoCz.jpg",
-	desc: "",
+	desc: "Hermoso bolso hecho a mano tejido en terlenka, en base a semillas, materiales ecológicos y 'chapitas' de bebidas enlatadas.",
 });
 productList.push({
 	name: "Bolso 17",
 	price: 0,
 	image: "https://i.imgur.com/w3hXImr.jpg",
-	desc: "",
+	desc: "Hermoso bolso hecho a mano tejido en terlenka, en base a semillas, materiales ecológicos y 'chapitas' de bebidas enlatadas.",
 });
 productList.push({
 	name: "Bolso 18",
 	price: 0,
 	image: "https://i.imgur.com/LQz4Jw2.jpg",
-	desc: "Bolso estilo gatita tejido a mano con hilo Terlenka (crochet) y como materia prima uso de chapas de bebidas enlatadas. Disponible en gran variedad de colores.🧶♻️",
+	desc: "Bolso estilo gatita tejido a mano con hilo Terlenka (crochet) y como materia prima uso de chapas de bebidas enlatadas.",
 });
 productList.push({
 	name: "Bolso 19",
 	price: 0,
 	image: "https://i.imgur.com/GaJ0r3J.jpg",
-	desc: ".",
+	desc: "Hermoso bolso hecho a mano tejido en terlenka, en base a semillas, materiales ecológicos y 'chapitas' de bebidas enlatadas.",
 });
 productList.push({
 	name: "Bolso 20",
 	price: 0,
 	image: "https://i.imgur.com/q7dz0qv.gif",
-	desc: ".",
+	desc: "Hermoso bolso hecho a mano tejido en terlenka, en base a semillas, materiales ecológicos y 'chapitas' de bebidas enlatadas.",
 });
 productList.push({
 	name: "Bolso 21",
 	price: 0,
 	image: "https://i.imgur.com/w0n8Sz0.jpg",
-	desc: "😉",
+	desc: "Hermoso bolso hecho a mano tejido en terlenka, en base a semillas, materiales ecológicos y 'chapitas' de bebidas enlatadas.",
 });
 productList.push({
 	name: "Bolso 22",
 	price: 0,
 	image: "https://i.imgur.com/ri4FW1Q.jpg",
-	desc: "Este hermoso collar largo de estilo florido ha sido hecho a mano	 en base a semillas y materiales ecológicos.",
+	desc: "Hermoso bolso hecho a mano tejido en terlenka, en base a semillas, materiales ecológicos y 'chapitas' de bebidas enlatadas.",
 });
 productList.push({
 	name: "Bolso 23",
 	price: 0,
 	image: "https://i.imgur.com/GcfPXWT.jpg",
-	desc: "",
+	desc: "Hermoso bolso hecho a mano tejido en terlenka, en base a semillas, materiales ecológicos y 'chapitas' de bebidas enlatadas.",
 });
 productList.push({
 	name: "Bolso 24",
 	price: 0,
 	image: "https://i.imgur.com/KCLRn4K.jpg",
-	desc: ".",
+	desc: "Mini bolso de cuero y terlenka. hecho a mano.",
 });
 productList.push({
 	name: "Bolso 25",
 	price: 0,
 	image: "https://i.imgur.com/7v03NvC.jpg",
-	desc: ".",
+	desc: "Hermoso bolso hecho a mano tejido en terlenka, en base a semillas, materiales ecológicos y 'chapitas' de bebidas enlatadas.",
 });
 productList.push({
 	name: "Bolso 26",
 	price: 0,
 	image: "https://i.imgur.com/CboMoXs.jpg",
-	desc: ".",
+	desc: "Hermoso bolso hecho a mano tejido en terlenka, en base a semillas, materiales ecológicos y 'chapitas' de bebidas enlatadas.",
 });
 productList.push({
 	name: "Bolso 27",
 	price: 0,
 	image: "https://i.imgur.com/a5uAXwb.jpg",
-	desc: "♻️✨",
+	desc: "Hermoso bolso + monedero hecho a mano tejido en terlenka, en base a semillas, materiales ecológicos y 'chapitas' de bebidas enlatadas.",
 });
 productList.push({
 	name: "Bolso 28",
 	price: 0,
 	image: "https://i.imgur.com/Q6XZ2Jr.jpg",
-	desc: "😉",
+	desc: "Hermoso bolso hecho a mano tejido en terlenka, en base a semillas, materiales ecológicos y 'chapitas' de bebidas enlatadas.",
 });
 productList.push({
 	name: "Bolso 29",
 	price: 0,
 	image: "https://i.imgur.com/lx6wYfu.jpg",
-	desc: "",
+	desc: "Hermoso bolso hecho a mano tejido en terlenka, en base a semillas, materiales ecológicos y 'chapitas' de bebidas enlatadas.",
 });
 productList.push({
 	name: "Bolso 30",
 	price: 0,
 	image: "https://i.imgur.com/NsIpDmk.jpg",
-	desc: "😉.",
+	desc: "Hermoso bolso hecho a mano tejido en terlenka, en base a semillas, materiales ecológicos y 'chapitas' de bebidas enlatadas.",
 });
 
 function renderListProduct(productList) {
