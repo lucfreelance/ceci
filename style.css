@@ -450,3 +450,10 @@ nav {
 		display: none;
 	}
 }
+.seccion-final {
+          display: flex;
+          justify-content: space-around;
+        }
+        .seccion-final__parrafo {
+          border: 1px solid;
+		  padding: 10px;
