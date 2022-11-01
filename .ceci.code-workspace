@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.wordWrap": "on", // Commonly Used
+		"editor.detectIndentation": false, // Indentation Formatting
+		"editor.insertSpaces": false, // Commonly Used
+		"editor.defaultFormatter": "esbenp.prettier-vscode", // Text Editor (Prettier requested)
+		"editor.renderWhitespace": "all", // Text Editor (Visual & optional)
+		"editor.formatOnPaste": true, // Text Editor - Formatting
+		"editor.formatOnSave": true, // Text Editor - Formatting
+		"files.trimFinalNewlines": true, // Text Editor - Files
+		"files.insertFinalNewline": true, // Text Editor - Files
+		"prettier.useTabs": true, // Text Editor - Tabs Allowed
+		"liveServer.settings.multiRootWorkspaceName": "ceci",
+		"workbench.colorCustomizations": {
+			"activityBar.activeBackground": "#2cb858",
+			"activityBar.background": "#2cb858",
+			"activityBar.foreground": "#15202b",
+			"activityBar.inactiveForeground": "#15202b99",
+			"activityBarBadge.background": "#ebe5f9",
+			"activityBarBadge.foreground": "#15202b",
+			"commandCenter.border": "#e7e7e799",
+			"sash.hoverBorder": "#2cb858",
+			"statusBar.background": "#228f44",
+			"statusBar.foreground": "#e7e7e7",
+			"statusBarItem.hoverBackground": "#2cb858",
+			"statusBarItem.remoteBackground": "#228f44",
+			"statusBarItem.remoteForeground": "#e7e7e7",
+			"titleBar.activeBackground": "#228f44",
+			"titleBar.activeForeground": "#e7e7e7",
+			"titleBar.inactiveBackground": "#228f4499",
+			"titleBar.inactiveForeground": "#e7e7e799"
+		},
+		"peacock.color": "#228f44"
+	}
+}
