@@ -112,7 +112,7 @@ productList.push({
 productList.push({
 	name: "Bolso 5",
 	price: 60,
-	image: "https://i.imgur.com/0WdjjiN.jpg",
+	image: "https://i.imgur.com/25evH47.jpg",
 	desc: "👜 Hermoso bolso tamaño grande. Elaborado a mano en crochet con hilo terlenka y chapitas de bebidas enlatadas. Gama colores: Pastel multicolor. Diseño original florido.",
 });
 productList.push({
@@ -148,7 +148,7 @@ productList.push({
 productList.push({
 	name: "Bolso 11",
 	price: 90,
-	image: "https://i.imgur.com/IQRPbOS.jpeg",
+	image: "https://i.imgur.com/sRtj2M3.jpg",
 	desc: "👜 Hermoso bolso tamaño grande. Elaborado a mano en cuero e hilo artesanal. Gama colores: Gris. Diseño clásico.",
 });
 productList.push({
@@ -184,7 +184,7 @@ productList.push({
 productList.push({
 	name: "Bolso 17",
 	price: 60,
-	image: "https://i.imgur.com/w3hXImr.jpg",
+	image: "https://i.imgur.com/oki3ZIh.jpg",
 	desc: "👜 Lindo bolso tamaño mediano. Elaborado a mano en crochet con hilo terlenka y chapitas de bebidas enlatadas. Gama colores: Gris claro. Diseño florido.",
 });
 productList.push({
@@ -220,7 +220,7 @@ productList.push({
 productList.push({
 	name: "Bolso 23",
 	price: 45,
-	image: "https://i.imgur.com/KCLRn4K.jpg",
+	image: "https://i.imgur.com/2htD5CU.jpg",
 	desc: "👜 Bonito bolso tamaño pequeño. Elaborado a mano en crochet en cuero e hilo artesanal. Gama colores: Rojo. Diseño minimalista.",
 });
 productList.push({
@@ -256,7 +256,7 @@ productList.push({
 productList.push({
 	name: "Bolso 29",
 	price: 60,
-	image: "https://i.imgur.com/lx6wYfu.jpg",
+	image: "https://i.imgur.com/gPHgTar.jpg",
 	desc: "👜 Hermoso bolso tamaño grande. Elaborado a mano en crochet con hilo terlenka y chapitas de bebidas enlatadas. Gama colores: Blanco, Dorado, negro. Diseño original florido.",
 });
 productList.push({
@@ -336,7 +336,7 @@ function agregarCarrito(producto) {
 		return (modal.style.display = "grid");
 	}
 
-	/* Creacion de elemtentos HTML */
+	/* Creacion de elementos HTML */
 	let divShoppingCart = document.createElement("div");
 	let figureShoppingCart = document.createElement("figure");
 	let imgfigureShoppingCart = document.createElement("img");
