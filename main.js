@@ -104,10 +104,10 @@ productList.push({
 	desc: "👜👛 Extraordinario kit Bolso + Monedero. Elaborado a mano en crochet con hilo terlenka y chapitas de bebidas enlatadas. Tamaño; pequeño. Gama colores: Gris, Amarillo, Azul Cielo, Rosa. Diseño original grilla.",
 });
 productList.push({
+	price: 60,
 	name: "Bolso 4",
-	price: 40,
-	image: "https://i.imgur.com/GwZK50J.jpg",
-	desc: "👜 Bonito bolso tamaño mediano. Elaborado a mano en crochet con hilo terlenka y chapitas de bebidas enlatadas. Gama colores: Gris, Vino tinto. Diseño original lineas.",
+	image: "https://i.imgur.com/pdFUBr6.jpg",
+	desc: "👜 Hermoso bolso circular tamaño pequeño. Elaborado a mano en crochet con hilo terlenka y chapitas de bebidas enlatadas. Gama colores: Violeta, Naranja, Amarillo, Verde. Diseño circular.",
 });
 productList.push({
 	name: "Bolso 5",
@@ -123,21 +123,21 @@ productList.push({
 });
 productList.push({
 	name: "Bolso 7",
-	price: 65,
+	price: 45,
 	image: "https://i.imgur.com/MbLVqtk.jpg",
-	desc: "👜 Hermoso bolso tamaño mediano. Elaborado a mano en crochet con hilo terlenka y chapitas de bebidas enlatadas. Gama colores: Gris, Negro, Dorado. Diseño original florido.",
+	desc: "👜 Bonito bolso tamaño mediano. Elaborado a mano en crochet con hilo terlenka y chapitas de bebidas enlatadas. Gama colores: Azules, Violeta. Diseño original matizado  entrelazado.",
 });
 productList.push({
 	name: "Bolso 8",
-	price: 45,
+	price: 50,
 	image: "https://i.imgur.com/2fKtq49.jpg",
-	desc: "👜 Hermoso bolso tamaño mediano. Elaborado a mano en crochet con hilo terlenka y chapitas de bebidas enlatadas. Gama colores: Gris, Dorado. Diseño original marco florido.",
+	desc: "👜 Hermoso bolso tamaño mediano. Elaborado a mano en crochet con hilo terlenka y chapitas de bebidas enlatadas. Gama colores: Café. Diseño original florido minimalista clásico.",
 });
 productList.push({
 	name: "Bolso 9",
-	price: 60,
+	price: 50,
 	image: "https://i.imgur.com/U4qlxqf.gif	",
-	desc: "👜 Lindo bolso circular tamaño mediano. Elaborado a mano en crochet con hilo terlenka y chapitas de bebidas enlatadas. Gama colores: Psicodélico (cara 1), Gris, Verde /Cara 2). Diseño doble faz circular.",
+	desc: "👜 Lindo bolso circular tamaño pequeño. Elaborado a mano en crochet con hilo terlenka y chapitas de bebidas enlatadas. Gama colores: Psicodélico (cara 1), Gris, Verde /Cara 2). Diseño doble faz circular.",
 });
 productList.push({
 	name: "Bolso 10",
@@ -154,14 +154,14 @@ productList.push({
 productList.push({
 	name: "Bolso 12",
 	price: 50,
-	image: "https://i.imgur.com/pdFUBr6.jpg",
-	desc: "👜 Hermoso bolso circular tamaño pequeño. Elaborado a mano en crochet con hilo terlenka y chapitas de bebidas enlatadas. Gama colores: Violeta, Naranja, Amarillo, Verde. Diseño circular.",
+	image: "https://i.imgur.com/0XMa4gg.jpg",
+	desc: "👜 Hermoso bolso tamaño mediano. Elaborado a mano en crochet con hilo terlenka y chapitas de bebidas enlatadas. Gama colores: Verdes, Gris, Negro. Diseño florido.",
 });
 productList.push({
 	name: "Bolso 13",
-	price: 60,
+	price: 50,
 	image: "https://i.imgur.com/rp7jFu2.jpg	",
-	desc: "👜 Hermoso bolso tamaño grande. Elaborado a mano en crochet con hilo terlenka y chapitas de bebidas enlatadas. Gama colores: Gris. Diseño entrelazado.",
+	desc: "👜 Hermoso bolso tamaño mediano. Elaborado a mano en crochet con hilo terlenka y chapitas de bebidas enlatadas. Gama colores: Gris clásico; diseño entrelazado.",
 });
 productList.push({
 	name: "Bolso 14",
@@ -171,9 +171,9 @@ productList.push({
 });
 productList.push({
 	name: "Bolso 15",
-	price: 60,
-	image: "https://i.imgur.com/0XMa4gg.jpg",
-	desc: "👜 Hermoso bolso tamaño mediano. Elaborado a mano en crochet con hilo terlenka y chapitas de bebidas enlatadas. Gama colores: Verdes, Gris, Negro. Diseño florido.",
+	price: 45,
+	image: "https://i.imgur.com/uuSWS3m.jpg",
+	desc: "👜 Lindo bolso tamaño pequeño tejido a mano con hilo Terlenka y chapitas de bebidas enlatadas. Tamaño pequeño. Gama colores: Gris, Blanco. Diseño estilo cuerno.",
 });
 productList.push({
 	name: "Bolso 16",
@@ -189,9 +189,9 @@ productList.push({
 });
 productList.push({
 	name: "Bolso 18",
-	price: 55,
+	price: 45,
 	image: "https://i.imgur.com/LQz4Jw2.jpg",
-	desc: "👜 Lindo bolso circular tejido a mano con hilo Terlenka (crochet) y chapitas de bebidas enlatadas. Tamaño pequeño. Gama colores: Psicodélico. Diseño estilo gatita.",
+	desc: "👜 Lindo bolso circular tejido a mano con hilo Terlenka (crochet) y chapitas de bebidas enlatadas. Tamaño pequeño. Gama colores: Matizado psicodélico; estilo gatita.",
 });
 productList.push({
 	name: "Bolso 19",
@@ -219,7 +219,7 @@ productList.push({
 });
 productList.push({
 	name: "Bolso 23",
-	price: 45,
+	price: 40,
 	image: "https://i.imgur.com/2htD5CU.jpg",
 	desc: "👜 Bonito bolso tamaño pequeño. Elaborado a mano en crochet en cuero e hilo artesanal. Gama colores: Rojo. Diseño minimalista.",
 });
@@ -273,9 +273,9 @@ productList.push({
 });
 productList.push({
 	name: "Bolso 32",
-	price: 45,
-	image: "https://i.imgur.com/uuSWS3m.jpg",
-	desc: "👜 Lindo bolso tamaño pequeño tejido a mano con hilo Terlenka y chapitas de bebidas enlatadas. Tamaño pequeño. Gama colores: Gris, Blanco. Diseño estilo cuerno.",
+	price: 40,
+	image: "https://i.imgur.com/GwZK50J.jpg",
+	desc: "👜 Bonito bolso tamaño mediano. Elaborado a mano en crochet con hilo terlenka y chapitas de bebidas enlatadas. Gama colores: Gris, Vino tinto. Diseño original lineas.",
 });
 
 function renderListProduct(productList) {
