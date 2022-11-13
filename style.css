@@ -8,8 +8,8 @@
 	--white: #ffffff;
 	--black: #000000;
 	--very-light-pink: #c7c7c7;
-	--text-input-field: #f7f7f7;
-	--hospital-green: #acd9b2;
+	--text-input-field: #150050;
+	--#5837D0
 	--sm: 14px;
 	--md: 16px;
 	--lg: 18px;
@@ -164,11 +164,10 @@ nav {
 
 .product-detail {
 	width: 360px;
-
 	padding: 0 0 15px 24px;
 	background-color: var(--white);
 	box-sizing: border-box;
-	position: absolute;
+	position: static;
 	right: 0;
 }
 .button-product-detail--container {
@@ -450,3 +449,10 @@ nav {
 		display: none;
 	}
 }
+.seccion-final {
+          display: flex;
+          justify-content: space-around;
+        }
+        .seccion-final__parrafo {
+          border: 1px solid;
+		  padding: 10px;
