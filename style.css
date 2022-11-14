@@ -1,9 +1,8 @@
 * {
 	margin: 0;
 	padding: 0;
-	/*  box-sizing: border-box; */
+	 box-sizing: border-box;
 }
-
 :root {
 	--white: #ffffff;
 	--black: #000000;
@@ -18,8 +17,7 @@
 	--md: 16px;
 	--lg: 18px;
 }
-
-::-webkit-scrollbar {
+/* ::-webkit-scrollbar {
 	width: 1	5px;
   }  
   ::-webkit-scrollbar-track {
@@ -28,8 +26,7 @@
   ::-webkit-scrollbar-thumb {
 	background-color: var(--#ffffff);
 	border-radius: 0.8rem;
-  }
-  
+  } */  
 body {
 	margin: 0;
 	font-family: "Quicksand", sans-serif;
@@ -103,11 +100,36 @@ nav {
 	align-items: center;
 }
 .introducing {
-	padding: 20px 0px 0 10px;
+	text-align: center;
+	display:block;	
+}
+.ceci-store {
 	color:crimson;
+	text-align: center;
+	display:block;	
+}
+.heading2 {
+	text-align: center;
+	display:block;
+}
+.banner {
+	width: 50%;
+	margin:10px auto;
+	display:block;
+	padding: 5px 5px 5px 5px;
+	border-radius: 10%;
+}
+.girl {
+	width: 50%;
+	margin:10px auto;
+	display:block;
+	padding: 10px 10px 10px 10px;
 }
 .welcome {
-	padding: 20px 10px 0 10px;
+	padding: 20px 20px 20px 20px;
+	width: 80%;
+	text-align: center;
+	text-align: justify;
 }
 .desktop-menu {
 	position: absolute;
@@ -411,7 +433,6 @@ nav {
 .boton-modal p:hover {
 	opacity: 1;
 }
-
 .seccion-final {
 	display: flex;
 	justify-content: space-around;
@@ -419,6 +440,7 @@ nav {
   .seccion-final__parrafo {
 	border: 1px solid;
 	padding: 10px;
+}
 
 @media (max-width: 640px) {
 	.menu {
